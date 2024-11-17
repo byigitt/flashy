@@ -1,6 +1,11 @@
 {
-  "name": "flashcards",
-  "version": "0.1.0",
+  "name": "flashy",
+  "version": "0.1.1",
+  "description": "A simple flashcard app for learning and studying",
+  "author": {
+    "name": "byigitt",
+    "url": "https://github.com/byigitt"
+  },
   "private": true,
   "scripts": {
     "dev": "next dev",
